@@ -1,0 +1,19 @@
+@page {
+    margin: 0.5in;
+}
+
+#menubar {
+    display: none;
+}
+
+.box {
+    text-align: left;
+    font-size: 12pt;
+    font-family: Times New Roman;
+}
+
+.posit {
+    border-width: 0px;
+    width: 7.125in;
+    height: 5.361in;
+}
